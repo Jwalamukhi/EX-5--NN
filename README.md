@@ -103,6 +103,9 @@ print(f"Input:{np.array([1,1])}, Predicted: {predict_matrix(np.array([1,1]),w)}"
 
 <H3>OUTPUT:</H3>
 
+![exp5-1](https://github.com/user-attachments/assets/c665d959-6e82-4bf0-8703-a03aa5a484d8)
+
+
 
 
 <H3>Result:</H3>
